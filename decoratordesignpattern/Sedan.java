@@ -1,7 +1,7 @@
 package decoratordesignpattern;
 
 /**
- * The sedan class is a child class of Vehicle that sets a description and returns its cost
+ * The sedan class is a child class of Vehicle that sets a description and has a method that returns its cost
  * @author Rachael
  */
 public class Sedan extends Vehicle{
