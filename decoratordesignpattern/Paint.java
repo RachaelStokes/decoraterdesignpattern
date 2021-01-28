@@ -1,7 +1,7 @@
 package decoratordesignpattern;
 
 /**
- * Class that adds on "paint" to a description and cost of a vehicle
+ * Class that adds on paint to a description and cost of a vehicle
  * @author Rachael
  */
 public class Paint extends VehicleDecorator {
