@@ -13,7 +13,7 @@ public class SoundSystem extends VehicleDecorator {
     }
     
     public String toString() {
-        return vehicle.toString() + "awesome sound";
+        return vehicle.toString() + ", awesome sound";
     }
 
     public double getCost() {

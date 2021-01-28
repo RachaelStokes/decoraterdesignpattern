@@ -13,7 +13,7 @@ public class Rims extends VehicleDecorator {
     }
     
     public String toString() {
-        return vehicle.toString() + "cool rims";
+        return vehicle.toString() + ", cool rims";
     }
 
     public double getCost() {
